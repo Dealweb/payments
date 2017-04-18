@@ -6,5 +6,10 @@
             "name": "Caique Castro",
             "email": "castro.caique@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dealweb\\Payments\\": "src/"
+        }
+    }
 }
