@@ -1,0 +1,10 @@
+{
+    "name": "dealweb/payments",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Caique Castro",
+            "email": "castro.caique@gmail.com"
+        }
+    ]
+}
